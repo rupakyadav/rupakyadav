@@ -1,4 +1,4 @@
-[![MasterHead](https://miro.medium.com/max/1838/1*vJjJ3Mdok6Rvxx85IIRqBQ.gif)](https://rishavchanda.io)
+[![MasterHead](https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Rupak Yadav</h1>
 <h3 align="center">A passionate frontend developer from Nepal</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1680/1*sAYumlQq-rsEYnCWJ0C61Q.gif">
