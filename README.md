@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **rupaky284@gmail.com**
 
-- ⚡ Fun fact **I am less talkative**
+- ⚡ Fun fact **I am most silent student in whole nobel**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
